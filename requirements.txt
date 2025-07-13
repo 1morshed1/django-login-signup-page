@@ -1,0 +1,1 @@
+Django==5.0.* # Or the specific Django version you are using, e.g., Django==5.0.6
