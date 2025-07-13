@@ -1,4 +1,4 @@
-# Django Login/Signup Project
+# Django-Login-Signup-Page
 
 A simple and secure Django project demonstrating user authentication with login and signup functionalities. This project serves as a foundational boilerplate for building web applications requiring user management.
 
